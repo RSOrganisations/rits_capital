@@ -21,14 +21,14 @@ const Whyus = () => {
             <Div className="container">
         <Div className="row">
           <Div className="col-xl-6 col-lg-6">
-            <Div className="cs-image_layer cs-style1">
+            {/* <Div className="cs-image_layer cs-style1"> */}
               <Div className="cs-image_layer_in">
                 <img
-                  src="/images/animated/whyus1.png"
+                  src="/images/animated/qulifiedprofictional.png"
                   alt="About"
                   className="w-100 cs-radius_15"
                 />
-              </Div>
+              {/* </Div> */}
             </Div>
             <Spacing lg="0" md="40" />
           </Div>
@@ -82,14 +82,14 @@ const Whyus = () => {
             </SectionHeading>
           </Div>
           <Div className="col-xl-6 offset-xl-1 col-lg-6 order-lg-2 order-1  ">
-            <Div className="cs-image_layer cs-style1">
+            {/* <Div className="cs-image_layer cs-style1"> */}
               <Div className="cs-image_layer_in">
                 <img
-                  src="/images/animated/whyus2.png"
+                  src="/images/animated/globalpresence.png"
                   alt="About"
                   className="w-100 cs-radius_15"
                 />
-              </Div>
+              {/* </Div> */}
             </Div>
             <Spacing lg="0" md="40" />
           </Div>
@@ -100,14 +100,14 @@ const Whyus = () => {
       <Div className="container">
         <Div className="row">
           <Div className="col-xl-6 col-lg-6 ">
-            <Div className="cs-image_layer cs-style1">
+            {/* <Div className="cs-image_layer cs-style1"> */}
               <Div className="cs-image_layer_in">
                 <img
-                  src="/images/animated/whyus3.png"
+                  src="/images/animated/allinone.png"
                   alt="About"
                   className="w-100 cs-radius_15"
                 />
-              </Div>
+              {/* </Div> */}
             </Div>
             <Spacing lg="0" md="40" />
           </Div>

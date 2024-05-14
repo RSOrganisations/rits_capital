@@ -1087,9 +1087,9 @@ label {
 }
 
 .cs-page_heading.cs-style1 {
-  height:520px;
+  height:400px;
   padding: 120px 0 50px;
-  margin-top: 80px;
+  // margin-top: 80px;
   position: relative;
   &::after {
     content: '';
@@ -1506,14 +1506,14 @@ label {
     width: 200px;
   }
   .cs-page_heading.cs-style1 {
-    height: 550px;
+    height: 400px;
   }
 }
 
 @media screen and (max-width: 1199px) {
   .cs-page_heading.cs-style1 {
     height: 450px;
-    margin-top: 80px;
+    // margin-top: 80px;
   }
   .cs-half_screen {
     width: 100%;

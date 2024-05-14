@@ -10,26 +10,26 @@ const Investment = () => {
   return (
    <>
    <PageHeading 
-     title=''
-     bgSrc='/images/animated/investbanner.png'
+     title='Investment Banking'
+     bgSrc='/images/team_hero_bg.png'
      pageLinkText='Investment Banking'
    />
    {/* <Spacing lg='150' md='80'/> */}
    <Div className="container">
      <Div className="row align-items-center">
-       {/* <Div className="col-xl-6 col-lg-6">
+       <Div className="col-xl-6 col-lg-6">
          <Div className="cs-radius_15 cs-shine_hover_1">
-           <img src="/images/webicons/g25.gif" alt="Member" className="w-100" />
+           <img src="/images/animated/investment.png" alt="Member" className="w-100" />
          </Div>
-       </Div> */}
-       <Div className="col-lg-12 text-center ">
+       </Div>
+       <Div className="col-lg-6 ">
          <Spacing lg='50' md='45'/>
          <Div className="cs-section_heading cs-style1">
            <h2 className="cs-section_title">Investment Banking</h2>
            <Div className="cs-height_10 cs-height_lg_10" />
            {/* <h3 className="cs-section_subtitle">Product Designer</h3>
            <Div className="cs-height_5 cs-height_lg_5" /> */}
-           {/* <div className="d-flex align-items-center"><Div className="cs-separator cs-accent_bg mx-1" />◈<Div className="cs-separator cs-accent_bg mx-1" /></div> */}
+           <div className="d-flex align-items-center"><Div className="cs-separator cs-accent_bg mx-1" />◈<Div className="cs-separator cs-accent_bg mx-1" /></div>
            <Div className="cs-height_45 cs-height_lg_25" />
            <p className="cs-m0">Unlock financial success with Rits Capital's Investment Banking expertise. From IPOs to M&A, our seasoned team ensures strategic growth. Access funding with tailored Private Equity solutions and secure your financial future with our Equity Capital Markets and  Debt Advisory services. We provide the following comprehensive services under Investment Banking.</p>
            {/* <Div className="cs-height_25 cs-height_lg_20" />
@@ -44,7 +44,7 @@ const Investment = () => {
    </Div>
    <Spacing lg='80' md='80'/>
 
-   <Div className="container">
+   {/* <Div className="container">
      <Div className="row align-items-center">
      
        <Div className="col-lg-6 order-lg-1 order-2">
@@ -52,8 +52,7 @@ const Investment = () => {
          <Div className="cs-section_heading cs-style1">
            <h2 className="cs-section_title">  IPO  </h2>
            <Div className="cs-height_10 cs-height_lg_10" />
-           {/* <h3 className="cs-section_subtitle">   Unlock Your Growth Potential  </h3>
-           <Div className="cs-height_5 cs-height_lg_5" /> */}
+        
            <div className="d-flex align-items-center"><Div className="cs-separator cs-accent_bg mx-1" />◈<Div className="cs-separator cs-accent_bg mx-1" /></div>
            <Div className="cs-height_45 cs-height_lg_25" />
            
@@ -64,12 +63,8 @@ const Investment = () => {
 <li>Seize opportunities and propel business to new heights.</li>
           
            </ul>
-           {/* <p className="cs-m0">Step into the world of Initial Public Offering (IPO) with Rits Capital. Our experts help you through the process and turn your private enterprise into a publicly traded success. Seize opportunities, access capital markets, and propel your business to new heights.  
-  </p>
-           <Div className="cs-height_25 cs-height_lg_20" /> */}
-           {/* <p className="cs-m0">Ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit.</p> */}
-           <Div className="cs-height_45 cs-height_lg_30" />
-           {/* <SocialWidget/> */}
+          <Div className="cs-height_45 cs-height_lg_30" />
+          
          </Div>
        </Div>
        <Div className="col-xl-6 col-lg-6 order-lg-2 order-1 ">
@@ -79,14 +74,14 @@ const Investment = () => {
        </Div>
      </Div>
      
-   </Div>
+   </Div> */}
    <Spacing lg='80' md='80'/>
 
    <Div className="container">
      <Div className="row align-items-center">
        <Div className="col-xl-6 col-lg-6">
          <Div className="cs-radius_15 cs-shine_hover_1">
-           <img src="/images/animated/m&a.png" alt="Member" className="w-100" />
+           <img src="/images/animated/M and A.png" alt="Member" className="w-100" />
          </Div>
        </Div>
        <Div className="col-lg-6 ">
@@ -149,7 +144,7 @@ const Investment = () => {
        </Div>
        <Div className="col-xl-6 col-lg-6 order-lg-2 order-1">
          <Div className="cs-radius_15 cs-shine_hover_1">
-           <img src="/images/animated/pivateeq.png"alt="Member" className="w-100" />
+           <img src="/images/animated/privateequity.png"alt="Member" className="w-100" />
          </Div>
        </Div>
      </Div>
@@ -164,7 +159,7 @@ const Investment = () => {
   <Div className="row align-items-center">
     <Div className="col-xl-6 col-lg-6">
       <Div className="cs-radius_15 cs-shine_hover_1">
-        <img src="/images/animated/valuation.png" alt="Member" className="w-100" />
+        <img src="/images/animated/valution.png" alt="Member" className="w-100" />
       </Div>
     </Div>
     <Div className="col-lg-6">
@@ -235,7 +230,7 @@ const Investment = () => {
   <Div className="row align-items-center">
     <Div className="col-xl-6 col-lg-6">
       <Div className="cs-radius_15 cs-shine_hover_1">
-        <img src="/images/animated/debtad.png" alt="Member" className="w-100" />
+        <img src="/images/animated/debt.png" alt="Member" className="w-100" />
       </Div>
     </Div>
     <Div className="col-lg-6">
@@ -295,7 +290,7 @@ const Investment = () => {
        </Div>
        <Div className="col-xl-6 col-lg-6 order-lg-2 order-1">
          <Div className="cs-radius_15 cs-shine_hover_1">
-           <img src="/images/webicons/g19.gif"alt="Member" className="w-100" />
+           <img src="/images/animated/SPAC.png"alt="Member" className="w-100" />
          </Div>
        </Div>
      </Div>

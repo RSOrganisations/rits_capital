@@ -10,26 +10,26 @@ const Accounting = () => {
   return (
    <>
    <PageHeading 
-     title=''
-     bgSrc='/images/animated/finnacialbanner.png'
+     title='Financial Support Services'
+     bgSrc='/images/team_hero_bg.png'
      pageLinkText='Accounting '
    />
    {/* <Spacing lg='150' md='80'/> */}
    <Div className="container">
      <Div className="row align-items-center">
-       {/* <Div className="col-xl-6 col-lg-6 ">
+       <Div className="col-xl-6 col-lg-6 ">
          <Div className="cs-radius_15 cs-shine_hover_1">
-           <img src="/images/webicons/g29.gif" alt="Member" className="w-100" />
+           <img src="/images/animated/finiancial.png" alt="Member" className="w-100" />
          </Div>
-       </Div> */}
-       <Div className="col-lg-12 text-center">
+       </Div>
+       <Div className="col-lg-6">
          <Spacing lg='50' md='45'/>
          <Div className="cs-section_heading cs-style1">
            <h2 className="cs-section_title">Financial Support Services</h2>
            <Div className="cs-height_10 cs-height_lg_10" />
            {/* <h3 className="cs-section_subtitle">Product Designer</h3> */}
            {/* <Div className="cs-height_5 cs-height_lg_5" /> */}
-         {/* <div className="d-flex align-items-center"><Div className="cs-separator cs-accent_bg mx-1" />◈<Div className="cs-separator cs-accent_bg mx-1" /></div> */}
+         <div className="d-flex align-items-center"><Div className="cs-separator cs-accent_bg mx-1" />◈<Div className="cs-separator cs-accent_bg mx-1" /></div>
            <Div className="cs-height_45 cs-height_lg_25" />
            <p className="cs-m0">Experience financial precision with Rits Capital's comprehensive accounting services, ensuring compliance and strategic guidance. We provide the following holistic financial support services for sustained success.</p>
            {/* <Div className="cs-height_25 cs-height_lg_20" />
@@ -68,7 +68,7 @@ const Accounting = () => {
        </Div>
        <Div className="col-xl-6 col-lg-6 order-lg-2 order-1">
          <Div className="cs-radius_15 cs-shine_hover_1">
-           <img src="/images/webicons/g26.gif" alt="Member" className="w-100" />
+           <img src="/images/animated/accounting.png" alt="Member" className="w-100" />
          </Div>
        </Div>
      </Div>
@@ -79,7 +79,7 @@ const Accounting = () => {
      <Div className="row align-items-center">
        <Div className="col-xl-6 col-lg-6">
          <Div className="cs-radius_15 cs-shine_hover_1">
-           <img src="/images/webicons/g27.gif" alt="Member" className="w-100" />
+           <img src="/images/animated/tax service.png" alt="Member" className="w-100" />
          </Div>
        </Div>
        <Div className="col-lg-6 ">
@@ -137,7 +137,7 @@ const Accounting = () => {
        </Div>
        <Div className="col-xl-6 col-lg-6 order-lg-2 order-1">
          <Div className="cs-radius_15 cs-shine_hover_1">
-           <img src="/images/webicons/g30.gif" alt="Member" className="w-100" />
+           <img src="/images/animated/Ipo Advisory.png" alt="Member" className="w-100" />
          </Div>
        </Div>
      </Div>
@@ -148,7 +148,7 @@ const Accounting = () => {
      <Div className="row align-items-center">
        <Div className="col-xl-6 col-lg-6">
          <Div className="cs-radius_15 cs-shine_hover_1">
-           <img src="/images/webicons/g28.gif" alt="Member" className="w-100" />
+           <img src="/images/animated/aduit.png" alt="Member" className="w-100" />
          </Div>
        </Div>
        <Div className="col-lg-6">

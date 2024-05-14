@@ -107,7 +107,7 @@ export default function Home() {
     ],
       btnText: 'See Details',
       btnLink: '/Wealthmanagement',
-      imageUrl: '/images/animated/Wealth.png',
+      imageUrl: '/images/animated/wealth.png',
       category: 'Web Development',
     },
     {
@@ -120,7 +120,7 @@ export default function Home() {
   
       btnText: 'See Details',
       btnLink: '/Investment',
-      imageUrl: '/images/animated/invest.png',
+      imageUrl: '/images/animated/investment.png',
       category: 'Branding',
     },
     {
@@ -137,7 +137,7 @@ export default function Home() {
     
       btnText: 'See Details',
       btnLink: '/Accounting',
-      imageUrl: '/images/animated/Financial.png',
+      imageUrl: '/images/animated/finiancial.png',
       category: 'UI Design',
     },
     {
@@ -150,22 +150,22 @@ export default function Home() {
     ],
       btnText: 'See Details',
       btnLink: '/Acceleration',
-      imageUrl: '/images/animated/startup.png',
+      imageUrl: '/images/animated/Startup Incubation.png',
       category: 'Apps Design',
     },
-    // {
-    //   title: 'Pre-IPO ',
-    //   subtitle: "",
+    {
+      title: 'Pre-IPO ',
+      subtitle: "",
    
-    //   subPoints: [" Discover exclusive unlisted share deals aligned with your  investment goals.",
-    //   " Diversify with tailored baskets of shares for wealth creation.",
-    //   " Explore unparalleled Pre-IPO opportunities and strategic investment avenues."
-    // ],
-    //   btnText: 'See Details',
-    //   btnLink: '/Preipo',
-    //   imageUrl: '/images/animated/preipo.png',
-    //   category: 'Apps Design',
-    // },
+      subPoints: [" Discover exclusive unlisted share deals aligned with your  investment goals.",
+      " Diversify with tailored baskets of shares for wealth creation.",
+      " Explore unparalleled Pre-IPO opportunities and strategic investment avenues."
+    ],
+      btnText: 'See Details',
+      btnLink: '/Preipo',
+      imageUrl: '/images/animated/ipo.png',
+      category: 'Apps Design',
+    },
 
   ];
 

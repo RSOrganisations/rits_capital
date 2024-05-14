@@ -67,7 +67,7 @@ export default function CaseStudyShowcaseHome() {
 
                     <div className="banner__right">
                         <div className="image-1">
-                            <img src="/images/Web_Hero.svg" alt="" />
+                            <img src="/images/animated/homebanner.png" alt="" />
                         </div>
 
                   

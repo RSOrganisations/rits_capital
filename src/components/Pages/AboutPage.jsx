@@ -46,7 +46,7 @@ export default function AboutPage() {
       <Spacing lg="150" md="80" />
       <Div className="container">
         <Div className="row">
-          <Div className="col-xl-5 col-lg-7">
+          <Div className="col-xl-6 col-lg-7">
             <SectionHeading
               title="About Rits Capital"
               subtitle=""
@@ -60,7 +60,7 @@ export default function AboutPage() {
               <Spacing lg="25" md="40" />
             </SectionHeading>
           </Div>
-          <Div className="col-lg-5 offset-xl-2">
+          <Div className="col-lg-6">
             <img
               src="/images/animated/about.png"
               alt="About"
@@ -105,15 +105,15 @@ export default function AboutPage() {
       <Div className="container">
         <Div className="row">
           <Div className="col-xl-6 col-lg-6">
-            <Div className="cs-image_layer cs-style1">
+            {/* <Div className="cs-image_layer cs-style1"> */}
               <Div className="cs-image_layer_in">
                 <img
-                  src="/images/animated/mission1.png"
+                  src="/images/animated/Mission .png"
                   alt="About"
                   className="w-100 cs-radius_15"
                 />
               </Div>
-            </Div>
+            {/* </Div> */}
             <Spacing lg="0" md="40" />
           </Div>
           <Div className="col-xl-6  col-lg-6">
@@ -160,15 +160,15 @@ export default function AboutPage() {
             </SectionHeading>
           </Div>
           <Div className="col-xl-6 col-lg-6 order-lg-2 order-1 ">
-            <Div className="cs-image_layer cs-style1">
+            {/* <Div className="cs-image_layer cs-style1"> */}
               <Div className="cs-image_layer_in">
                 <img
-                  src="/images/animated/mission2.png"
+                  src="/images/animated/vision.png"
                   alt="About"
                   className="w-100 cs-radius_15"
                 />
               </Div>
-            </Div>
+            {/* </Div> */}
             <Spacing lg="0" md="40" />
           </Div>
         </Div>
